@@ -9851,7 +9851,7 @@
                                         children: "Información detallada en video"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://firebasestorage.googleapis.com/v0/b/quizapp-11326.appspot.com/o/948568sampletry.mp4?alt=media&token=33f919b8-c5c9-4814-8e63-275d48652977",
+                                        src: "https://ik.imagekit.io/mubvga666/spanish-video.mp4?tr=orig&updatedAt=1747655993202",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
@@ -13339,7 +13339,7 @@
                                 children: "Información detallada en video"
                             }), (0,
                             he.jsx)("a", {
-                                href: "https://firebasestorage.googleapis.com/v0/b/quizapp-11326.appspot.com/o/948568sampletry.mp4?alt=media&token=33f919b8-c5c9-4814-8e63-275d48652977",
+                                href: "https://ik.imagekit.io/mubvga666/spanish-video.mp4?tr=orig&updatedAt=1747655993202",
                                 children: (0,
                                 he.jsx)("img", {
                                     src: me,
